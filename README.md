@@ -8,7 +8,7 @@ Esercizi e progetti in linguaggio Java svolti durante i miei studi alla Steve Jo
 
 Questa repository raccoglie il mio percorso di apprendimento di Java: non tutti i progetti hanno lo stesso livello di complessità, e alcuni nascono come esercizi mirati a un singolo concetto (le eccezioni, il multithreading, le interfacce), mentre altri sono progetti più completi che mettono insieme più argomenti contemporaneamente.
 
-In alcuni progetti, l'interfaccia grafica (GUI) è stata realizzata con il supporto dell'intelligenza artificiale, mentre la logica applicativa sottostante è farina del mio sacco. Lo specifico caso per caso qui sotto, per trasparenza.
+In alcuni progetti, l'interfaccia grafica (GUI) è stata realizzata con il supporto dell'intelligenza artificiale, mentre la logica applicativa sottostante è opera mia. Lo specifico caso per caso qui sotto, per trasparenza.
 
 ---
 
